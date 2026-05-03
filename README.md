@@ -91,7 +91,7 @@ bash setup.sh
 
 ```bash
 # 1. Clona o repositório
-git clone https://github.com/gnu23-sys/termux-nas.git
+git clone https://github.com/mrjoker-web/termux-nas.git
 cd termux-nas
 
 # 2. Dá permissão e corre
@@ -258,13 +258,42 @@ chmod +x ~/.termux/boot/start-nas.sh
 
 ---
 
+## `> screenshot`
+
+<div align="center">
+
+![Termux NAS — FileBrowser Interface](https://i.imgur.com/XO4oYqk.jpeg)
+
+*FileBrowser v2.31.2 — Interface web acessível em toda a rede local*
+
+</div>
+
+---
+
+## `> shadow suite`
+
+| Tool | Descrição | Repo |
+|------|-----------|------|
+| 🌐 ShadowSub | Subdomain finder | [mrjoker-web/ShadowSub](https://github.com/mrjoker-web/ShadowSub) |
+| 🛡️ ShadowScanner | Network scanner | [mrjoker-web/ShadowScanner](https://github.com/mrjoker-web/ShadowScanner) |
+| 📱 ShadowDroid | Android ADB audit | [mrjoker-web/ShadowDroid-](https://github.com/mrjoker-web/ShadowDroid-) |
+| ⚙️ ShadowSetup | Terminal setup | [mrjoker-web/ShadowSetup](https://github.com/mrjoker-web/ShadowSetup) |
+| 🖥️ Shadow CLI | Full recon framework | [mrjoker-web/ShadowCLI](https://github.com/mrjoker-web/ShadowCLI) |
+| 🔎 ShadowCVE | CVE Intelligence | [mrjoker-web/ShadowCVE](https://github.com/mrjoker-web/ShadowCVE) |
+| 📱 Termux NAS | Android file server | **este repo** |
+
+---
+
 ## `> author`
 
 <div align="center">
 
-Feito por **[mrjoker-web](https://github.com/mrjoker-web/Readme)**
+Feito por **[Mr Joker](https://github.com/mrjoker-web)** — Aspiring Pentester & Tools Developer · Lisboa, PT
 
-[![GitHub](https://img.shields.io/badge/GitHub-mrjoker-web-181717?style=for-the-badge&logo=github)](https://github.com/mrjoker-web/Readme)
+[![GitHub](https://img.shields.io/badge/GitHub-mrjoker--web-181717?style=for-the-badge&logo=github)](https://github.com/mrjoker-web)
+[![Telegram](https://img.shields.io/badge/Telegram-mr__joker78-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mr_joker78)
+[![Twitter/X](https://img.shields.io/badge/X-mrjoker3790-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mrjoker3790)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mr%20Joker-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-joker-951ab2357)
 
 *Se achares útil, deixa uma ⭐ — ajuda o projeto a crescer!*
 
@@ -278,14 +307,3 @@ Feito por **[mrjoker-web](https://github.com/mrjoker-web/Readme)**
 MIT License — usa, modifica e distribui à vontade.
 Dá crédito se achares que merece. ⭐
 ```
-
-
-## `> screenshot`
-
-<div align="center">
-
-![Termux NAS — FileBrowser Interface](https://i.imgur.com/XO4oYqk.jpeg)
-
-*FileBrowser v2.31.2 — Interface web acessível em toda a rede local*
-
-</div>
