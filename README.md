@@ -262,9 +262,9 @@ chmod +x ~/.termux/boot/start-nas.sh
 
 <div align="center">
 
-Feito por **[gnu23-sys](https://github.com/gnu23-sys)**
+Feito por **[mrjoker-web](https://github.com/mrjoker-web/Readme)**
 
-[![GitHub](https://img.shields.io/badge/GitHub-gnu23--sys-181717?style=for-the-badge&logo=github)](https://github.com/gnu23-sys)
+[![GitHub](https://img.shields.io/badge/GitHub-gnu23--sys-181717?style=for-the-badge&logo=github)](https://github.com/mrjoker-web/Readme)
 
 *Se achares útil, deixa uma ⭐ — ajuda o projeto a crescer!*
 
