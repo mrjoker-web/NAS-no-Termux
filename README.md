@@ -278,3 +278,14 @@ Feito por **[gnu23-sys](https://github.com/gnu23-sys)**
 MIT License — usa, modifica e distribui à vontade.
 Dá crédito se achares que merece. ⭐
 ```
+
+
+## `> screenshot`
+
+<div align="center">
+
+![Termux NAS — FileBrowser Interface](https://i.imgur.com/XO4oYqk.jpeg)
+
+*FileBrowser v2.31.2 — Interface web acessível em toda a rede local*
+
+</div>
